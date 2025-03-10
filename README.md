@@ -2,9 +2,9 @@
 
 # What does it do?
 
-An SKSE plugin that allows you to view log files in the console menu.
+An SKSE plugin that allows you to view log files in the console menu. Official Nexus Mods page.
 [Console Log Viewer](https://www.nexusmods.com/skyrimspecialedition/mods/144291)
-
+ 
 # CommonLibSSE NG
 
 Because this uses [CommonLibSSE NG](https://github.com/CharmedBaryon/CommonLibSSE-NG), it supports Skyrim SE, AE, GOG, and VR.
